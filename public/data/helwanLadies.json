@@ -1,0 +1,43 @@
+{
+  "name": "Helwan",
+  "about": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil dolorem minus reprehenderit, vel tempore molestiae! Ipsum aspernatur porro reprehenderit autem nemo architecto voluptates ea natus eius, voluptatibus rem dolore ipsa magnam qui assumenda debitis harum laborum aut repellendus. Veniam rem unde at laboriosam quidem autem culpa, esse doloremque minima voluptatibus, provident quis eum maiores libero est placeat, amet voluptatum officiis id consectetur molestias distinctio ea vel. Voluptate quod ea officia recusandae sit architecto quam, magni aliquam eius asperiores facere obcaecati sapiente, error corporis? Dolore unde, minima aspernatur, eius odit enim natus iusto quos at accusamus fugiat quia pariatur voluptates ex.",
+  "female": true,
+  "photos": [
+    "helwan-ladies-branch.jpg",
+    "reception-ladies.jpg",
+    "workout-area-ladies.jpg",
+    "workout-area-ladies2.jpg",
+    "workout-area-ladies3.jpg",
+    "hewlan-ladies-lockers.jpg"
+  ],
+  "coaches": [
+    {
+      "id": 0,
+      "name": "Fedan",
+      "role": "Senior Trainer",
+      "about": "Hello sit amet consectetur adipisicing elit. Nihil dolorem  ea natus eius, voluptatibus rem dolore ipsa magnam qui assumenda debitis harum laborum aut repellendus. Veniam rem unde ",
+      "image": "images/coaches/fedan.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Dina",
+      "role": "Trainer",
+      "about": "",
+      "image": "images/coaches/dina.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ganna",
+      "role": "Trainer",
+      "about": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil dolorem  ea natus eius, voluptatibus rem dolore ipsa magnam qui assumenda debitis harum laborum aut repellendus. Veniam rem unde ",
+      "image": "images/coaches/ganna.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Nada",
+      "role": "Trainer",
+      "about": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil dolorem  ea natus eius, voluptatibus rem dolore ipsa magnam qui assumenda debitis harum laborum aut repellendus. Veniam rem unde ",
+      "image": "images/coaches/nada.jpg"
+    }
+  ]
+}

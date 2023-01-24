@@ -1,0 +1,49 @@
+{
+  "name": "Helwan",
+  "about": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil dolorem minus reprehenderit, vel tempore molestiae! Ipsum aspernatur porro reprehenderit autem nemo architecto voluptates ea natus eius, voluptatibus rem dolore ipsa magnam qui assumenda debitis harum laborum aut repellendus. Veniam rem unde at laboriosam quidem autem culpa, esse doloremque minima voluptatibus, provident quis eum maiores libero est placeat, amet voluptatum officiis id consectetur molestias distinctio ea vel. Voluptate quod ea officia recusandae sit architecto quam, magni aliquam eius asperiores facere obcaecati sapiente, error corporis? Dolore unde, minima aspernatur, eius odit enim natus iusto quos at accusamus fugiat quia pariatur voluptates ex.",
+  "female": false,
+  "photos": [
+    "helwan-branch.jpg",
+    "helwan-branch2.jpg",
+    "helwan-branch3.jpg",
+    "helwan-branch4.jpg",
+    "helwan-branch5.jpg"
+  ],
+  "coaches": [
+    {
+      "id": 0,
+      "name": "Omar",
+      "role": "Trainer",
+      "about": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil dolorem  ea natus eius, voluptatibus rem dolore ipsa magnam qui assumenda debitis harum laborum aut repellendus. Veniam rem unde ",
+      "image": "images/coaches/omar-helwan.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Ibrahim",
+      "role": "Trainer",
+      "about": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil dolorem  ea natus eius, voluptatibus rem dolore ipsa magnam qui assumenda debitis harum laborum aut repellendus. Veniam rem unde ",
+      "image": "images/coaches/ibrahim.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mohamed",
+      "role": "Senior Trainer",
+      "about": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil dolorem  ea natus eius, voluptatibus rem dolore ipsa magnam qui assumenda debitis harum laborum aut repellendus. Veniam rem unde ",
+      "image": "images/coaches/mohamed-helwan.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Islam",
+      "role": "Trainer",
+      "about": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil dolorem  ea natus eius, voluptatibus rem dolore ipsa magnam qui assumenda debitis harum laborum aut repellendus. Veniam rem unde ",
+      "image": "images/coaches/islam.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Hakim",
+      "role": "Trainer",
+      "about": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil dolorem  ea natus eius, voluptatibus rem dolore ipsa magnam qui assumenda debitis harum laborum aut repellendus. Veniam rem unde ",
+      "image": "images/coaches/hakim.jpg"
+    }
+  ]
+}
